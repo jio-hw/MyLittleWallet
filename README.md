@@ -18,7 +18,7 @@ An simple remote ethereum wallet implementation
 ### Step-by-Step Instruction
 1. **Clone this repository**  
     ```sh
-    git clone https://github.com/yuoa/MyLittleWallet.git
+    git clone https://github.com/yuoa-hw/MyLittleWallet.git
     cd MyLittleWallet
     ```
 2. **Install npm packages**  
