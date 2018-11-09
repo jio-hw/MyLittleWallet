@@ -1,3 +1,6 @@
+***This is just a fork of my project, and this repository contains what I handed in.***
+***For latest version, check out [my original repository](https://github.com/yuoa/MyLittleWallet).***
+
 # ![My Little Wallet](wallet/html/images/tt_small.png)
 
 > Friendship is Magic!
